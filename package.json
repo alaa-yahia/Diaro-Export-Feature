@@ -1,0 +1,21 @@
+{
+  "name": "diaroo-export-feature",
+  "version": "1.0.0",
+  "description": "This is an imitation to diaro's export feature which they but behind a pay wall ",
+  "main": "diaro.js",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "puppeteer": "^2.0.0",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node diaro.js -pdf -img"
+  },
+  "keywords": [
+    "diaro"
+  ],
+  "author": "Alaa Yahia",
+  "license": "ISC"
+}
