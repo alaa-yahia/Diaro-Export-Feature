@@ -1,0 +1,446 @@
+{
+    "data": {
+        "_attributes": {
+            "version": "2"
+        },
+        "table": [
+            {
+                "_attributes": {
+                    "name": "diaro_folders"
+                },
+                "r": [
+                    {
+                        "uid": {
+                            "_text": "336fdcf7d540e4b430a890b63da159c9"
+                        },
+                        "title": {
+                            "_text": "Entertainment"
+                        },
+                        "color": {
+                            "_text": "#AA66CC"
+                        },
+                        "pattern": {}
+                    },
+                    {
+                        "uid": {
+                            "_text": "3d594614f445f6b00014e9b77730b833"
+                        },
+                        "title": {
+                            "_text": "Friends"
+                        },
+                        "color": {
+                            "_text": "#99CC00"
+                        },
+                        "pattern": {}
+                    },
+                    {
+                        "uid": {
+                            "_text": "8bd7a1153a88761ad9d37e2f2394c947"
+                        },
+                        "title": {
+                            "_text": "Love"
+                        },
+                        "color": {
+                            "_text": "#FF4444"
+                        },
+                        "pattern": {}
+                    },
+                    {
+                        "uid": {
+                            "_text": "bc97e12414b8ea00107c66aa552029ae"
+                        },
+                        "title": {
+                            "_text": "Todo"
+                        },
+                        "color": {
+                            "_text": "#ffcc00"
+                        },
+                        "pattern": {}
+                    },
+                    {
+                        "uid": {
+                            "_text": "d6e6cb19e3b9c02f89d6cd54cfa7c613"
+                        },
+                        "title": {
+                            "_text": "Business"
+                        },
+                        "color": {
+                            "_text": "#33B5E5"
+                        },
+                        "pattern": {}
+                    },
+                    {
+                        "uid": {
+                            "_text": "ec61fc61f7618879b42d938c07a3eda3"
+                        },
+                        "title": {
+                            "_text": "Vacations"
+                        },
+                        "color": {
+                            "_text": "#FF8800"
+                        },
+                        "pattern": {}
+                    }
+                ]
+            },
+            {
+                "_attributes": {
+                    "name": "diaro_tags"
+                },
+                "r": [
+                    {
+                        "uid": {
+                            "_text": "1526e0ac850c241ee1631d9ad5664475"
+                        },
+                        "title": {
+                            "_text": "Movie"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "158d7558ee87d9a8caa77b59abcdd9ef"
+                        },
+                        "title": {
+                            "_text": "Idea"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "2a2542f9e61a9a1d3b83ae31889ac954"
+                        },
+                        "title": {
+                            "_text": "Dream"
+                        }
+                    }
+                ]
+            },
+            {
+                "_attributes": {
+                    "name": "diaro_entries"
+                },
+                "r": [
+                    {
+                        "uid": {
+                            "_text": "48b6afc3a21d255ef0cbe3ec758be441"
+                        },
+                        "date": {
+                            "_text": "1572096097000"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "Get started with Diaro app!"
+                        },
+                        "text": {
+                            "_text": "To start using Diaro app you should know:\n- HOW TO USE DIARO APP\nCreate new entries, folders, tags or locations by using \"+\" buttons.\nUse search to find entries by any keyword in a title or text, filter results by date, folder, tags or locations from the left side menu.\n\n- HOW TO CUSTOMIZE\nSet different backgrounds for each folder. All entries in customized folders will have a different look.\nDiaro language, UI color, text size, etc. can be changed in Diaro Settings -> Preferences -> Appearance.\n\n- HOW TO PROTECT YOUR DATA\nTo secure access to the app, set Security Code in Diaro Settings -> Preferences -> Security code.\nTo avoid accidental loss of your data, do not forget to make backups regularly using Diaro Settings -> Data -> Backup & restore.\n\n- HOW TO SYNC YOUR DATA\nSync data across all your devices. Just sign in to your Diaro account and link it with Dropbox.\nYou can manage your entries using Diaro Online (www.diaroapp.com) on your PC or Mac.\nSync is available in PRO version only."
+                        },
+                        "folder_uid": {
+                            "_text": "336fdcf7d540e4b430a890b63da159c9"
+                        },
+                        "location_uid": {},
+                        "tags": {
+                            "_text": ",2a2542f9e61a9a1d3b83ae31889ac954,158d7558ee87d9a8caa77b59abcdd9ef,1526e0ac850c241ee1631d9ad5664475,"
+                        },
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "28.6"
+                        },
+                        "weather_icon": {
+                            "_text": "day-cloudy-gusts"
+                        },
+                        "weather_description": {
+                            "_text": "scattered clouds"
+                        },
+                        "mood": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "4d47a0a3bfe438fd0099afb4635ba7ac"
+                        },
+                        "date": {
+                            "_text": "1572096110913"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "WHERE DID EVERYTHING COME FROM?"
+                        },
+                        "text": {
+                            "_text": "Every culture has its own origin story. They may be very short anecdotes. Or they might be elaborate narratives that help explain the mysteries of our existence.\n\nBig History is an origin story like many others. But, instead of being rooted in a specific culture or geography, Big History aims to account for everything we know and that which we have yet to discover. Contributors include philosophers, scientists, scholars, adventurers, and curious learners of all stripes who weave a story of enormous scale.\n\nAnd like all origin stories below, the Big History story has developed over time, and will continue to evolve.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "3"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "632130c9848de7b2aec03d64d4daaffc"
+                        },
+                        "date": {
+                            "_text": "1572096464368"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "A NEW DAY BEGINS"
+                        },
+                        "text": {
+                            "_text": "It was five billion years ago. A giant cloud of matter in our own galaxy, the Milky Way, condensed under its gravity, exploding in nuclear fusion.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "0"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "1c3478039881c38a1cf934f12c639029"
+                        },
+                        "date": {
+                            "_text": "1572096568493"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "HOW DID THE PLANETS FORM?"
+                        },
+                        "text": {
+                            "_text": "The cosmic creation of our Solar System:\n\nNew elements, combined with the just-right Goldilocks Conditions came together and formed our Solar System.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "2"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "31c3e0da29133f39201c63694de17964"
+                        },
+                        "date": {
+                            "_text": "1572096645513"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "WHAT DID THE YOUNG EARTH LOOK LIKE"
+                        },
+                        "text": {
+                            "_text": "Though Earth was neatly orbiting the Sun as a rocky mass four and a half billion years ago, no organism could survive there. Radiation from the recent supernova kept the planet extremely hot, its surface molten, and oxygen was non-existent. Plus, incredibly massive meteorites and asteroids frequently slammed onto the surface — creating even more heat.\n\nThe Earth got so hot, it began melting. Heavier material sank to the bottom, lighter stuff rose to the top. Some elements evaporated. This transformation created the Earth's layered core and mantle, crust, and atmosphere.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "0"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "8384bfd7551a16b8d3c816d34519de5f"
+                        },
+                        "date": {
+                            "_text": "1572096712523"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "TECTONIC PLATES"
+                        },
+                        "text": {
+                            "_text": "\nBut how do we know that the Earth's surface is moving? Some of the early scholars studying the first world maps began to notice some very odd things — for instance, that West Africa seems to fit nicely into Brazil.\n\nIn the early 20th century, a German meteorologist named Alfred Wegener began assembling evidence suggesting that the continents were once connected. He found very similar geological strata in West Africa and in Brazil. And during World War I, he wrote a book arguing that at one time all the continents on Earth had been united in a single supercontinent that he called Pangaea.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "4"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "e920c1a4ae51af3d333624a897a08db1"
+                        },
+                        "date": {
+                            "_text": "1572096796376"
+                        },
+                        "tz_offset": {
+                            "_text": "+03:00"
+                        },
+                        "title": {
+                            "_text": "PROVING CONTINENTAL DRIFT"
+                        },
+                        "text": {
+                            "_text": "While other scientists put forth the theory that the Earth's landmasses had once been connected by land bridges that had since sunk into the ocean, and had always been located where they are today, a few renegade scientists postulated that the Earth once contained one huge supercontinent. In 1858, Austrian geologist Eduard Suess postulated a supercontinent called Gondwanaland, and American astronomer William Henry Pickering suggested in 1907 that the continents broke up when the Moon was separated from the Earth.\n\n"
+                        },
+                        "folder_uid": {},
+                        "location_uid": {},
+                        "tags": {},
+                        "primary_photo_uid": {},
+                        "weather_temperature": {
+                            "_text": "0"
+                        },
+                        "weather_icon": {},
+                        "weather_description": {},
+                        "mood": {
+                            "_text": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "_attributes": {
+                    "name": "diaro_attachments"
+                },
+                "r": [
+                    {
+                        "uid": {
+                            "_text": "4213cd851f0ac5329c6c997d64709a68"
+                        },
+                        "entry_uid": {
+                            "_text": "632130c9848de7b2aec03d64d4daaffc"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "photo_20191026_506841.jpg"
+                        },
+                        "position": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "a533b8126f6091edf3ad5a64b20e73cf"
+                        },
+                        "entry_uid": {
+                            "_text": "8384bfd7551a16b8d3c816d34519de5f"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "photo_20191026_770218.jpg"
+                        },
+                        "position": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "b9cf93b3f7d6579152e8b26a2dff88df"
+                        },
+                        "entry_uid": {
+                            "_text": "4d47a0a3bfe438fd0099afb4635ba7ac"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "photo_20191026_457287.jpg"
+                        },
+                        "position": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "c3771755df42fe5e55fc2d87d4d3d1e6"
+                        },
+                        "entry_uid": {
+                            "_text": "e920c1a4ae51af3d333624a897a08db1"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "photo_20191026_827068.jpg"
+                        },
+                        "position": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "f497a8b650b6d44fb13a61b321176348"
+                        },
+                        "entry_uid": {
+                            "_text": "48b6afc3a21d255ef0cbe3ec758be441"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "entry_demo_image1.jpg"
+                        },
+                        "position": {
+                            "_text": "1"
+                        }
+                    },
+                    {
+                        "uid": {
+                            "_text": "f497a8b650b6d44fb13a61b321176349"
+                        },
+                        "entry_uid": {
+                            "_text": "48b6afc3a21d255ef0cbe3ec758be441"
+                        },
+                        "type": {
+                            "_text": "photo"
+                        },
+                        "filename": {
+                            "_text": "entry_demo_image2.jpg"
+                        },
+                        "position": {
+                            "_text": "2"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
