@@ -1,5 +1,5 @@
 # Diaro-Export-Feature
-#### This a node JS app to mimic the export feature of Diaro app
+#### This a nodeJS commandline app to mimic the export feature of Diaro app
 It exports to both HTML & PDF files with HTML being the default
 
 ## Dependencies:
